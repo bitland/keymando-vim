@@ -13,7 +13,7 @@ Installation
 Grab it with Mercurial or Git:
 
     hg clone http://bitbucket.org/sjl/keymando-vim "~/Library/Application Support/Keymando/Plugins/vim"
-    git clone http://github.org/sjl/keymando-vim.git "~/Library/Application Support/Keymando/Plugins/vim"
+    git clone http://github.com/sjl/keymando-vim.git "~/Library/Application Support/Keymando/Plugins/vim"
 
 Reload your Keymando config.  You're now in normal mode.
 
